@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-13T07:28:30.470Z",
+ "updated": "2026-10-13T18:17:46.693Z",
  "source": "Find a Tender (UK Government)",
  "licence": "Open Government Licence v3.0",
- "count": 25,
+ "count": 27,
  "tenders": [
   {
    "id": "092274-2026",
@@ -252,6 +252,19 @@
    "url": "https://www.find-tender.service.gov.uk/Notice/092247-2026"
   },
   {
+   "id": "096422-2026",
+   "title": "Provision of Homeless Supported Accommodation, Outreach Tenancy Support and Housing First Services",
+   "buyer": "Falkirk Council",
+   "region": "Scotland",
+   "category": "community",
+   "value": 6122802,
+   "currency": "GBP",
+   "deadline": "2026-11-09T11:00:00Z",
+   "published": "2026-10-13T10:52:22+01:00",
+   "summary": "Provision of housing support services to assist individuals and households experiencing homelessness, housing instability or requiring support to sustain accommodation. The service will contribute to homelessness…",
+   "url": "https://www.find-tender.service.gov.uk/Notice/096422-2026"
+  },
+  {
    "id": "091498-2026",
    "title": "Provision of Temporary Emergency Accommodation (East Lothian Council)",
    "buyer": "East Lothian Council",
@@ -328,6 +341,19 @@
    "published": "2026-10-02T09:59:39+01:00",
    "summary": "NHS Highland, acting as the Lead Agency for Integrated Health and Social Care for Adults on behalf of the Highland Health and Social Care Partnership (HHSCP), is reopening its established Flexible Framework Agreement…",
    "url": "https://www.find-tender.service.gov.uk/Notice/093151-2026"
+  },
+  {
+   "id": "096433-2026",
+   "title": "Pupil Equity Funding (PEF) Flexible Framework",
+   "buyer": "Dumfries and Galloway Council",
+   "region": "Scotland",
+   "category": "community",
+   "value": null,
+   "currency": "GBP",
+   "deadline": "2027-09-13T12:00:00+01:00",
+   "published": "2026-10-13T11:00:46+01:00",
+   "summary": "The Scottish Government has committed to providing additional funding in the form of Pupil Equity Funding (PEF), to schools as part of the Scottish Attainment Challenge programme. This funding is allocated directly…",
+   "url": "https://www.find-tender.service.gov.uk/Notice/096433-2026"
   }
  ]
 }
