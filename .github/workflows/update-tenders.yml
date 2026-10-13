@@ -2,7 +2,9 @@ name: Update live tenders
 
 on:
   schedule:
-    - cron: '20 5 * * *'   # every day at 05:20 UTC
+    - cron: '17 5 * * *'    # daily, 06:17 UK summer time (05:17 in winter)
+    - cron: '17 11 * * *'   # back-up run, in case GitHub skips the early one
+    - cron: '17 17 * * *'   # second back-up run
   workflow_dispatch:        # lets you run it by hand from the Actions tab
 
 permissions:
