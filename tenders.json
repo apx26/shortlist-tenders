@@ -1,22 +1,9 @@
 {
- "updated": "2026-10-14T10:15:28.733Z",
+ "updated": "2026-10-14T15:49:43.613Z",
  "source": "Find a Tender (UK Government)",
  "licence": "Open Government Licence v3.0",
  "count": 27,
  "tenders": [
-  {
-   "id": "092274-2026",
-   "title": "Reopening of the Over 65 Residential Care Home Framework for Swindon",
-   "buyer": "Swindon Borough Council",
-   "region": "South West",
-   "category": "community",
-   "value": null,
-   "currency": "GBP",
-   "deadline": "2026-10-14T12:00:00+01:00",
-   "published": "2026-09-30T11:21:39+01:00",
-   "summary": "Swindon Borough Council invites expressions of interest from suitably qualified and experienced service providers for admission to the existing Over 65 Years of Age Residential Care Home Framework for Swindon.…",
-   "url": "https://www.find-tender.service.gov.uk/Notice/092274-2026"
-  },
   {
    "id": "088301-2026",
    "title": "Early Learning, Childcare and Brokerage Services",
@@ -328,6 +315,19 @@
    "published": "2026-10-09T15:04:50+01:00",
    "summary": "'Experts at Hand' is designed to transform how support for children and young people with SEND is delivered, by bringing specialist expertise directly into mainstream early years, primary, secondary and post-16…",
    "url": "https://www.find-tender.service.gov.uk/Notice/095752-2026"
+  },
+  {
+   "id": "096987-2026",
+   "title": "Colne Town Council - Grounds Maintenance",
+   "buyer": "Colne Town Council",
+   "region": "North West",
+   "category": "cleaning",
+   "value": null,
+   "currency": "GBP",
+   "deadline": "2026-11-27T17:00:00Z",
+   "published": "2026-10-14T12:59:12+01:00",
+   "summary": "Tenders are invited in respect of one contract, with a duration of 2.25-5 years, detailed below and effective from 1st January 2027. GM5 Alkincoates Park gardening services (excluding Grass and Hedge Maintenance).",
+   "url": "https://www.find-tender.service.gov.uk/Notice/096987-2026"
   },
   {
    "id": "093151-2026",
