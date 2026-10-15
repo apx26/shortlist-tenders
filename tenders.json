@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-15T09:57:51.816Z",
+ "updated": "2026-10-15T15:35:37.776Z",
  "source": "Find a Tender (UK Government)",
  "licence": "Open Government Licence v3.0",
- "count": 27,
+ "count": 28,
  "tenders": [
   {
    "id": "088301-2026",
@@ -94,6 +94,19 @@
    "published": "2026-09-22T09:38:50+01:00",
    "summary": "The Council is establishing a framework for the provision of Residential Rehabilitation services for drug and alcohol treatment and recovery, in accordance with the Provider Selection Regime (PSR). The framework is…",
    "url": "https://www.find-tender.service.gov.uk/Notice/089429-2026"
+  },
+  {
+   "id": "097389-2026",
+   "title": "Drug and Alcohol Treatment and Recovery",
+   "buyer": "Kingston Upon Hull City Council",
+   "region": "Yorkshire and the Humber",
+   "category": "care",
+   "value": 187500,
+   "currency": "GBP",
+   "deadline": "2026-10-27",
+   "published": "2026-10-15T11:43:00+01:00",
+   "summary": "This is a Provider Selection Regime (PSR) intended to award notice. The awarding of this contract is subject to the Health Care Services (Provider Selection Regime) Regulations 2023. For the avoidance of doubt, the…",
+   "url": "https://www.find-tender.service.gov.uk/Notice/097389-2026"
   },
   {
    "id": "092822-2026",
