@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-16T09:52:41.919Z",
+ "updated": "2026-10-16T15:22:25.368Z",
  "source": "Find a Tender (UK Government)",
  "licence": "Open Government Licence v3.0",
- "count": 30,
+ "count": 32,
  "tenders": [
   {
    "id": "088301-2026",
@@ -354,6 +354,32 @@
    "published": "2026-10-16T09:23:34+01:00",
    "summary": "Falkirk Council wishes to undertake a tendering process to enter into a Framework Agreement with suitably experienced contractors for the provision of Ground Maintenance Service within the Falkirk Council area of…",
    "url": "https://www.find-tender.service.gov.uk/Notice/097723-2026"
+  },
+  {
+   "id": "097853-2026",
+   "title": "Provision of West Ardnamurchan Refuse & Recycling Collections",
+   "buyer": "Highland Council",
+   "region": "Scotland",
+   "category": "cleaning",
+   "value": null,
+   "currency": "GBP",
+   "deadline": "2026-11-16T12:00:00Z",
+   "published": "2026-10-16T11:41:07+01:00",
+   "summary": "The Highland Council requires a contractor to operate refuse and recycling collections in West Ardnamurchan and facilitate the running of the Kilchoan Household Waste Recycling Centre and Waste Transfer Station.",
+   "url": "https://www.find-tender.service.gov.uk/Notice/097853-2026"
+  },
+  {
+   "id": "098127-2026",
+   "title": "CVG Close & Cleaning Contract 2027 - 2029",
+   "buyer": "Clyde Valley Housing Association Limited",
+   "region": "Scotland",
+   "category": "cleaning",
+   "value": 119000,
+   "currency": "GBP",
+   "deadline": "2026-11-16T12:00:00Z",
+   "published": "2026-10-16T15:52:30+01:00",
+   "summary": "Close Cleaning along with an Office premises",
+   "url": "https://www.find-tender.service.gov.uk/Notice/098127-2026"
   },
   {
    "id": "096987-2026",
