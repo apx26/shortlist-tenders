@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-15T20:20:18.018Z",
+ "updated": "2026-10-16T09:52:41.919Z",
  "source": "Find a Tender (UK Government)",
  "licence": "Open Government Licence v3.0",
- "count": 28,
+ "count": 30,
  "tenders": [
   {
    "id": "088301-2026",
@@ -328,6 +328,32 @@
    "published": "2026-10-09T15:04:50+01:00",
    "summary": "'Experts at Hand' is designed to transform how support for children and young people with SEND is delivered, by bringing specialist expertise directly into mainstream early years, primary, secondary and post-16…",
    "url": "https://www.find-tender.service.gov.uk/Notice/095752-2026"
+  },
+  {
+   "id": "097721-2026",
+   "title": "Molendinar+Reidvale HAs Landscape Maintenance Framework 2027",
+   "buyer": "Molendinar Park Housing Association Limited",
+   "region": "Scotland",
+   "category": "cleaning",
+   "value": null,
+   "currency": "GBP",
+   "deadline": "2026-11-16T10:00:00Z",
+   "published": "2026-10-16T09:21:09+01:00",
+   "summary": "The successful Candidate will be responsible for the landscape maintenance, landscaping work and services to be undertaken (hereinafter referred to as ‘the works’ or ‘the services’) as described at Schedule 3, Scope…",
+   "url": "https://www.find-tender.service.gov.uk/Notice/097721-2026"
+  },
+  {
+   "id": "097723-2026",
+   "title": "Ground Maintenance Services",
+   "buyer": "Falkirk Council",
+   "region": "Scotland",
+   "category": "cleaning",
+   "value": 1500000,
+   "currency": "GBP",
+   "deadline": "2026-11-16T11:00:00Z",
+   "published": "2026-10-16T09:23:34+01:00",
+   "summary": "Falkirk Council wishes to undertake a tendering process to enter into a Framework Agreement with suitably experienced contractors for the provision of Ground Maintenance Service within the Falkirk Council area of…",
+   "url": "https://www.find-tender.service.gov.uk/Notice/097723-2026"
   },
   {
    "id": "096987-2026",
