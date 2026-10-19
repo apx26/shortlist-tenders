@@ -1,35 +1,9 @@
 {
- "updated": "2026-10-19T10:48:29.875Z",
+ "updated": "2026-10-19T17:28:22.537Z",
  "source": "Find a Tender (UK Government)",
  "licence": "Open Government Licence v3.0",
- "count": 32,
+ "count": 30,
  "tenders": [
-  {
-   "id": "088301-2026",
-   "title": "Early Learning, Childcare and Brokerage Services",
-   "buyer": "Dumfries and Galloway Council",
-   "region": "Scotland",
-   "category": "care",
-   "value": null,
-   "currency": "GBP",
-   "deadline": "2026-10-19T12:00:00+01:00",
-   "published": "2026-09-17T14:54:48+01:00",
-   "summary": "The Council has a statutory duty to make pre-school education available for eligible children under the Standards in Scotland’s Schools Act 2000. The Children and Young People (Scotland) Act 2014 and Statutory…",
-   "url": "https://www.find-tender.service.gov.uk/Notice/088301-2026"
-  },
-  {
-   "id": "088668-2026",
-   "title": "Provision of Food Waste Haulage Services",
-   "buyer": "Highland Council",
-   "region": "Scotland",
-   "category": "cleaning",
-   "value": 975000,
-   "currency": "GBP",
-   "deadline": "2026-10-19T12:00:00+01:00",
-   "published": "2026-09-18T12:51:14+01:00",
-   "summary": "Haulage of Food Waste from Longman Waste Transfer Station to Treatment facility.",
-   "url": "https://www.find-tender.service.gov.uk/Notice/088668-2026"
-  },
   {
    "id": "087374-2026",
    "title": "Social Care Agency Workers Flexible Framework Agreement",
