@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-20T20:34:43.088Z",
+ "updated": "2026-10-21T10:12:09.904Z",
  "source": "Find a Tender (UK Government)",
  "licence": "Open Government Licence v3.0",
- "count": 29,
+ "count": 30,
  "tenders": [
   {
    "id": "088982-2026",
@@ -354,6 +354,19 @@
    "published": "2026-10-14T12:59:12+01:00",
    "summary": "Tenders are invited in respect of one contract, with a duration of 2.25-5 years, detailed below and effective from 1st January 2027. GM5 Alkincoates Park gardening services (excluding Grass and Hedge Maintenance).",
    "url": "https://www.find-tender.service.gov.uk/Notice/096987-2026"
+  },
+  {
+   "id": "099247-2026",
+   "title": "Services for Unaccompanied Asylum Seeking Children (UASC) in Highland",
+   "buyer": "The Highland Council",
+   "region": "Scotland",
+   "category": "care",
+   "value": 3600000,
+   "currency": "GBP",
+   "deadline": "2026-12-01T12:00:00Z",
+   "published": "2026-10-21T08:54:51+01:00",
+   "summary": "A holistic support service for Unaccompanied Asylum Seeking Children (UASC) referred through the National Transfer Scheme (NTS) and those arriving spontaneously within the Highland area. The initial contract length…",
+   "url": "https://www.find-tender.service.gov.uk/Notice/099247-2026"
   },
   {
    "id": "093151-2026",
