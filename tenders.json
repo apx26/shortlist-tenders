@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-21T15:57:32.005Z",
+ "updated": "2026-10-21T20:37:58.409Z",
  "source": "Find a Tender (UK Government)",
  "licence": "Open Government Licence v3.0",
- "count": 29,
+ "count": 30,
  "tenders": [
   {
    "id": "089429-2026",
@@ -315,6 +315,19 @@
    "published": "2026-10-21T12:58:08+01:00",
    "summary": "The security, opening and closing of a Multi-Use Games Area (MUGA) and the security, opening and closing of three car parks at Browns Wood Sports Ground, Walnut Tree Sports Ground and Wavendon Gate Sports Ground.",
    "url": "https://www.find-tender.service.gov.uk/Notice/099461-2026"
+  },
+  {
+   "id": "099692-2026",
+   "title": "Unpaid Carer Support Service",
+   "buyer": "Midlothian Council",
+   "region": "Scotland",
+   "category": "community",
+   "value": 3720798.75,
+   "currency": "GBP",
+   "deadline": "2026-11-27T12:00:00Z",
+   "published": "2026-10-21T16:57:52+01:00",
+   "summary": "Midlothian Council seeks a single Provider to be the main service delivering a range of community based unpaid carer support services to relevant carers in Midlothian. The services will support carers in a range of…",
+   "url": "https://www.find-tender.service.gov.uk/Notice/099692-2026"
   },
   {
    "id": "096987-2026",
