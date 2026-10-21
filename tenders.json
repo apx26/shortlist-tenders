@@ -1,48 +1,9 @@
 {
- "updated": "2026-10-21T10:12:09.904Z",
+ "updated": "2026-10-21T15:57:32.005Z",
  "source": "Find a Tender (UK Government)",
  "licence": "Open Government Licence v3.0",
- "count": 30,
+ "count": 29,
  "tenders": [
-  {
-   "id": "088982-2026",
-   "title": "Provision of a Mental Health Recovery Service",
-   "buyer": "Inverclyde Council",
-   "region": "Scotland",
-   "category": "care",
-   "value": null,
-   "currency": "GBP",
-   "deadline": "2026-10-21T12:00:00+01:00",
-   "published": "2026-09-21T10:11:00+01:00",
-   "summary": "Inverclyde Council requires the Provider to provide a Mental Health Recovery Support Service which provides personalised and collective support to adults with mental health and /or drug and alcohol related issue. In…",
-   "url": "https://www.find-tender.service.gov.uk/Notice/088982-2026"
-  },
-  {
-   "id": "089112-2026",
-   "title": "Community Harm Reduction and Recovery Initiation Services – Core Locality Hub Services",
-   "buyer": "The City of Edinburgh Council",
-   "region": "Scotland",
-   "category": "care",
-   "value": 16517844,
-   "currency": "GBP",
-   "deadline": "2026-10-21T12:00:00+01:00",
-   "published": "2026-09-21T12:33:36+01:00",
-   "summary": "The Edinburgh Health and Social Care Partnership (EH&SCP), through the City of Edinburgh Council (the Council), wish to tender for the provision of a city-wide Community Harm Reduction and Recovery Initiation…",
-   "url": "https://www.find-tender.service.gov.uk/Notice/089112-2026"
-  },
-  {
-   "id": "089255-2026",
-   "title": "Children's Services Re-Opening of the Open Select List 2026 for all Independent Placement",
-   "buyer": "Lincolnshire County Council",
-   "region": "Lincoln",
-   "category": "community",
-   "value": null,
-   "currency": "GBP",
-   "deadline": "2026-10-21T15:00:00+01:00",
-   "published": "2026-09-21T14:55:57+01:00",
-   "summary": "Lincolnshire Children's Services Re-Opening of the Open Select List 2026 for all Independent Placements. This procurement is under the Light Touch Regime established pursuant to Regulations 74-76 and Regulation 76(7)…",
-   "url": "https://www.find-tender.service.gov.uk/Notice/089255-2026"
-  },
   {
    "id": "089429-2026",
    "title": "CPH158 Residential Rehabilitation for Drug and Alcohol Treatment and Recovery Framework",
@@ -343,6 +304,19 @@
    "url": "https://www.find-tender.service.gov.uk/Notice/098127-2026"
   },
   {
+   "id": "099461-2026",
+   "title": "Walton Community Council Community Asset Security",
+   "buyer": "Walton Community Council",
+   "region": "North East",
+   "category": "security",
+   "value": null,
+   "currency": "GBP",
+   "deadline": "2026-11-20T17:00:00Z",
+   "published": "2026-10-21T12:58:08+01:00",
+   "summary": "The security, opening and closing of a Multi-Use Games Area (MUGA) and the security, opening and closing of three car parks at Browns Wood Sports Ground, Walnut Tree Sports Ground and Wavendon Gate Sports Ground.",
+   "url": "https://www.find-tender.service.gov.uk/Notice/099461-2026"
+  },
+  {
    "id": "096987-2026",
    "title": "Colne Town Council - Grounds Maintenance",
    "buyer": "Colne Town Council",
@@ -380,6 +354,19 @@
    "published": "2026-10-02T09:59:39+01:00",
    "summary": "NHS Highland, acting as the Lead Agency for Integrated Health and Social Care for Adults on behalf of the Highland Health and Social Care Partnership (HHSCP), is reopening its established Flexible Framework Agreement…",
    "url": "https://www.find-tender.service.gov.uk/Notice/093151-2026"
+  },
+  {
+   "id": "099557-2026",
+   "title": "Commissioning Homes for Children Looked After & Care Leavers PDPS - Lot 4 Rd 7",
+   "buyer": "London Borough of Newham",
+   "region": "London",
+   "category": "community",
+   "value": null,
+   "currency": "GBP",
+   "deadline": "2027-02-26T12:00:00Z",
+   "published": "2026-10-21T14:35:10+01:00",
+   "summary": "The London Borough of Newham has established a Pseudo-Dynamic Purchasing System (PDPS) for the supply of services in respect of children's externally commissioned care, accommodation and support services. This notice…",
+   "url": "https://www.find-tender.service.gov.uk/Notice/099557-2026"
   },
   {
    "id": "096433-2026",
