@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-21T20:37:58.409Z",
+ "updated": "2026-10-22T10:13:32.419Z",
  "source": "Find a Tender (UK Government)",
  "licence": "Open Government Licence v3.0",
- "count": 30,
+ "count": 31,
  "tenders": [
   {
    "id": "089429-2026",
@@ -302,6 +302,19 @@
    "published": "2026-10-16T15:52:30+01:00",
    "summary": "Close Cleaning along with an Office premises",
    "url": "https://www.find-tender.service.gov.uk/Notice/098127-2026"
+  },
+  {
+   "id": "099867-2026",
+   "title": "Fostering and Continuing Care Services 0924",
+   "buyer": "Scotland Excel",
+   "region": "Scotland",
+   "category": "community",
+   "value": 345000000,
+   "currency": "GBP",
+   "deadline": "2026-11-18T12:00:00Z",
+   "published": "2026-10-22T11:07:51+01:00",
+   "summary": "This Contract Notice pertains to a Flexible Framework for Fostering and Continuing Care Services 0924. The Flexible Framework will support local authorities to access nurturing family homes for children and young…",
+   "url": "https://www.find-tender.service.gov.uk/Notice/099867-2026"
   },
   {
    "id": "099461-2026",
