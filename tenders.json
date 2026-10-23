@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-23T10:06:26.651Z",
+ "updated": "2026-10-23T15:44:35.520Z",
  "source": "Find a Tender (UK Government)",
  "licence": "Open Government Licence v3.0",
- "count": 30,
+ "count": 32,
  "tenders": [
   {
    "id": "097389-2026",
@@ -291,6 +291,19 @@
    "url": "https://www.find-tender.service.gov.uk/Notice/098127-2026"
   },
   {
+   "id": "100646-2026",
+   "title": "Social Housing Emerging Disrupters 6 (SHED 6)",
+   "buyer": "Procurement for Housing Ltd (t/a PfH Scotland)",
+   "region": "Scotland",
+   "category": "cleaning",
+   "value": 250000000,
+   "currency": "GBP",
+   "deadline": "2026-11-17T12:00:00Z",
+   "published": "2026-10-23T15:25:57+01:00",
+   "summary": "Established in 2004, Procurement for Housing (PfH) is a national procurement consortium dedicated to the social housing sector and supported by the National Housing Federation (NHF), Chartered Institute of Housing…",
+   "url": "https://www.find-tender.service.gov.uk/Notice/100646-2026"
+  },
+  {
    "id": "099867-2026",
    "title": "Fostering and Continuing Care Services 0924",
    "buyer": "Scotland Excel",
@@ -315,6 +328,19 @@
    "published": "2026-10-21T12:58:08+01:00",
    "summary": "The security, opening and closing of a Multi-Use Games Area (MUGA) and the security, opening and closing of three car parks at Browns Wood Sports Ground, Walnut Tree Sports Ground and Wavendon Gate Sports Ground.",
    "url": "https://www.find-tender.service.gov.uk/Notice/099461-2026"
+  },
+  {
+   "id": "100624-2026",
+   "title": "TD2311 - Life Skills Transitions and Development Supported Living Scheme",
+   "buyer": "Derby City Council",
+   "region": "East Midlands",
+   "category": "community",
+   "value": 5000000,
+   "currency": "GBP",
+   "deadline": "2026-11-24T10:00:00Z",
+   "published": "2026-10-23T15:09:17+01:00",
+   "summary": "Derby City Council (the Council) is undertaking this procurement to establish a contract for a Life Skills Development and Transitions Supported Living Development. The Council is seeking to meet its strategic…",
+   "url": "https://www.find-tender.service.gov.uk/Notice/100624-2026"
   },
   {
    "id": "099692-2026",
