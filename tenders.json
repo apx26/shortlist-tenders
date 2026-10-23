@@ -1,22 +1,9 @@
 {
- "updated": "2026-10-22T20:33:39.632Z",
+ "updated": "2026-10-23T10:06:26.651Z",
  "source": "Find a Tender (UK Government)",
  "licence": "Open Government Licence v3.0",
- "count": 31,
+ "count": 30,
  "tenders": [
-  {
-   "id": "089429-2026",
-   "title": "CPH158 Residential Rehabilitation for Drug and Alcohol Treatment and Recovery Framework",
-   "buyer": "Derbyshire County Council",
-   "region": "North East",
-   "category": "care",
-   "value": 2200000,
-   "currency": "GBP",
-   "deadline": "2026-10-23T11:00:00+01:00",
-   "published": "2026-09-22T09:38:50+01:00",
-   "summary": "The Council is establishing a framework for the provision of Residential Rehabilitation services for drug and alcohol treatment and recovery, in accordance with the Provider Selection Regime (PSR). The framework is…",
-   "url": "https://www.find-tender.service.gov.uk/Notice/089429-2026"
-  },
   {
    "id": "097389-2026",
    "title": "Drug and Alcohol Treatment and Recovery",
