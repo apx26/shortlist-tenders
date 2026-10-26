@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-26T11:09:10.845Z",
+ "updated": "2026-10-26T17:22:38.244Z",
  "source": "Find a Tender (UK Government)",
  "licence": "Open Government Licence v3.0",
- "count": 32,
+ "count": 34,
  "tenders": [
   {
    "id": "097389-2026",
@@ -380,6 +380,32 @@
    "published": "2026-10-21T08:54:51+01:00",
    "summary": "A holistic support service for Unaccompanied Asylum Seeking Children (UASC) referred through the National Transfer Scheme (NTS) and those arriving spontaneously within the Highland area. The initial contract length…",
    "url": "https://www.find-tender.service.gov.uk/Notice/099247-2026"
+  },
+  {
+   "id": "101028-2026",
+   "title": "Calvay Housing Association - Landscape Maintenance 2027 - 2030",
+   "buyer": "Calvay Housing Association",
+   "region": "Scotland",
+   "category": "cleaning",
+   "value": null,
+   "currency": "GBP",
+   "deadline": "2026-12-08T12:00:00Z",
+   "published": "2026-10-26T13:37:36Z",
+   "summary": "3 Year Landscape Maintenance Services Contract for areas owned by Calvay Housing Association located in Barlanark, Glasgow.",
+   "url": "https://www.find-tender.service.gov.uk/Notice/101028-2026"
+  },
+  {
+   "id": "101073-2026",
+   "title": "Early Learning & Childcare Provision Framework (New Applicants October 2026)",
+   "buyer": "East Ayrshire Council",
+   "region": "Scotland",
+   "category": "care",
+   "value": null,
+   "currency": "GBP",
+   "deadline": "2026-12-10T12:00:00Z",
+   "published": "2026-10-26T14:17:43Z",
+   "summary": "Framework Agreement for Early Learning and Childcare Provision - New Applicants October 2026 OCTOBER 2026 REOPENING OF FLEXIBLE FRAMEWORK - NOTE THAT FUNDED PROVIDERS ALREADY INCLUDED IN THE FRAMEWORK DO NOT REQUIRE…",
+   "url": "https://www.find-tender.service.gov.uk/Notice/101073-2026"
   },
   {
    "id": "093151-2026",
