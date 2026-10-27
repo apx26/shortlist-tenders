@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-27T16:37:25.688Z",
+ "updated": "2026-10-27T21:18:43.633Z",
  "source": "Find a Tender (UK Government)",
  "licence": "Open Government Licence v3.0",
- "count": 35,
+ "count": 36,
  "tenders": [
   {
    "id": "091179-2026",
@@ -133,6 +133,19 @@
    "published": "2026-09-30T11:04:08+01:00",
    "summary": "NCC will be recommissioning the Stop Smoking Service.",
    "url": "https://www.find-tender.service.gov.uk/Notice/092247-2026"
+  },
+  {
+   "id": "101778-2026",
+   "title": "HtH-DPS-Semi-Independent Living",
+   "buyer": "London Borough of Haringey",
+   "region": "London",
+   "category": "care",
+   "value": 292501,
+   "currency": "GBP",
+   "deadline": "2026-11-06",
+   "published": "2026-10-27T17:11:14Z",
+   "summary": "Support and life-skills coaching for care leavers living at Hornsey Town Hall (HtH) training flats",
+   "url": "https://www.find-tender.service.gov.uk/Notice/101778-2026"
   },
   {
    "id": "096422-2026",
