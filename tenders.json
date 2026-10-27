@@ -1,22 +1,9 @@
 {
- "updated": "2026-10-27T10:37:19.975Z",
+ "updated": "2026-10-27T16:37:25.688Z",
  "source": "Find a Tender (UK Government)",
  "licence": "Open Government Licence v3.0",
- "count": 33,
+ "count": 35,
  "tenders": [
-  {
-   "id": "092822-2026",
-   "title": "Cleaning Services Framework",
-   "buyer": "DELTA ACADEMIES TRUST",
-   "region": "Yorkshire and the Humber",
-   "category": "cleaning",
-   "value": 2000000,
-   "currency": "GBP",
-   "deadline": "2026-10-27T12:00:00Z",
-   "published": "2026-10-01T12:49:51+01:00",
-   "summary": "Contract cleaning services framework",
-   "url": "https://www.find-tender.service.gov.uk/Notice/092822-2026"
-  },
   {
    "id": "091179-2026",
    "title": "Breastfeeding Peer Support Service",
@@ -343,6 +330,32 @@
    "url": "https://www.find-tender.service.gov.uk/Notice/099692-2026"
   },
   {
+   "id": "101630-2026",
+   "title": "First Episode Psychosis",
+   "buyer": "Cardiff and Vale University Health Board",
+   "region": "Wales",
+   "category": "care",
+   "value": 270860,
+   "currency": "GBP",
+   "deadline": "2026-11-27T12:00:00Z",
+   "published": "2026-10-27T14:43:03Z",
+   "summary": "Provision of a community-based First Episode Psychosis (FEP) support service for individuals across Cardiff and the Vale of Glamorgan. The service will provide recovery-focused support, peer support, community…",
+   "url": "https://www.find-tender.service.gov.uk/Notice/101630-2026"
+  },
+  {
+   "id": "101631-2026",
+   "title": "BME Mental Health Support Service- Cardiff and Vale University Health Board",
+   "buyer": "Cardiff and Vale University Health Board",
+   "region": "Wales",
+   "category": "care",
+   "value": 299686.5,
+   "currency": "GBP",
+   "deadline": "2026-11-27T12:00:00Z",
+   "published": "2026-10-27T14:43:44Z",
+   "summary": "Provision of a community-based mental health support service for Black, Asian and Minority Ethnic (BAME) communities across Cardiff and the Vale of Glamorgan. The service will provide culturally appropriate wellbeing…",
+   "url": "https://www.find-tender.service.gov.uk/Notice/101631-2026"
+  },
+  {
    "id": "096987-2026",
    "title": "Colne Town Council - Grounds Maintenance",
    "buyer": "Colne Town Council",
@@ -393,6 +406,19 @@
    "published": "2026-10-26T14:17:43Z",
    "summary": "Framework Agreement for Early Learning and Childcare Provision - New Applicants October 2026 OCTOBER 2026 REOPENING OF FLEXIBLE FRAMEWORK - NOTE THAT FUNDED PROVIDERS ALREADY INCLUDED IN THE FRAMEWORK DO NOT REQUIRE…",
    "url": "https://www.find-tender.service.gov.uk/Notice/101073-2026"
+  },
+  {
+   "id": "101395-2026",
+   "title": "HAC6052 Integrated Adult Alcohol and Drug Prevention, Treatment and Recovery Service",
+   "buyer": "Tower Hamlets",
+   "region": "London",
+   "category": "care",
+   "value": 36850000,
+   "currency": "GBP",
+   "deadline": "2026-12-23T12:00:00Z",
+   "published": "2026-10-27T10:48:23Z",
+   "summary": "This tender is for the recommission of the adult drug and alcohol treatment and recovery system through one integrated contract with a single accountable provider. The service will: • bring together core treatment,…",
+   "url": "https://www.find-tender.service.gov.uk/Notice/101395-2026"
   },
   {
    "id": "093151-2026",
