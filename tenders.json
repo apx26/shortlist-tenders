@@ -1,22 +1,9 @@
 {
- "updated": "2026-10-26T21:38:25.542Z",
+ "updated": "2026-10-27T10:37:19.975Z",
  "source": "Find a Tender (UK Government)",
  "licence": "Open Government Licence v3.0",
- "count": 34,
+ "count": 33,
  "tenders": [
-  {
-   "id": "097389-2026",
-   "title": "Drug and Alcohol Treatment and Recovery",
-   "buyer": "Kingston Upon Hull City Council",
-   "region": "Yorkshire and the Humber",
-   "category": "care",
-   "value": 187500,
-   "currency": "GBP",
-   "deadline": "2026-10-27",
-   "published": "2026-10-15T11:43:00+01:00",
-   "summary": "This is a Provider Selection Regime (PSR) intended to award notice. The awarding of this contract is subject to the Health Care Services (Provider Selection Regime) Regulations 2023. For the avoidance of doubt, the…",
-   "url": "https://www.find-tender.service.gov.uk/Notice/097389-2026"
-  },
   {
    "id": "092822-2026",
    "title": "Cleaning Services Framework",
