@@ -1,35 +1,9 @@
 {
- "updated": "2026-10-28T11:22:17.572Z",
+ "updated": "2026-10-28T17:09:45.242Z",
  "source": "Find a Tender (UK Government)",
  "licence": "Open Government Licence v3.0",
- "count": 36,
+ "count": 35,
  "tenders": [
-  {
-   "id": "091179-2026",
-   "title": "Breastfeeding Peer Support Service",
-   "buyer": "Leeds City Council",
-   "region": "Yorkshire and the Humber",
-   "category": "care",
-   "value": 406190,
-   "currency": "GBP",
-   "deadline": "2026-10-28T12:00:00Z",
-   "published": "2026-09-25T16:52:52+01:00",
-   "summary": "The Service provided by the Provider shall deliver coordinated, accessible and effective breastfeeding peer support across Leeds, embedded within established pathways and programmes and available in both community…",
-   "url": "https://www.find-tender.service.gov.uk/Notice/091179-2026"
-  },
-  {
-   "id": "091262-2026",
-   "title": "Provision of an Alcohol and Drug Prevention, Early Intervention and Recovery Support Service",
-   "buyer": "North Ayrshire Council",
-   "region": "Scotland",
-   "category": "care",
-   "value": 2200000,
-   "currency": "GBP",
-   "deadline": "2026-10-28T12:00:00Z",
-   "published": "2026-09-28T09:35:53+01:00",
-   "summary": "North Ayrshire Council (“NAC”) invites tenders for the provision of an Alcohol and Drug Prevention, Early Intervention and Recovery Support Service. The anticipated contract start date is 15th May 2027. The contract…",
-   "url": "https://www.find-tender.service.gov.uk/Notice/091262-2026"
-  },
   {
    "id": "091811-2026",
    "title": "Framework Agreement for Provision of Cleaning Services for Properties, Communal Areas and Kitchens",
@@ -458,6 +432,19 @@
    "published": "2026-10-21T14:35:10+01:00",
    "summary": "The London Borough of Newham has established a Pseudo-Dynamic Purchasing System (PDPS) for the supply of services in respect of children's externally commissioned care, accommodation and support services. This notice…",
    "url": "https://www.find-tender.service.gov.uk/Notice/099557-2026"
+  },
+  {
+   "id": "101977-2026",
+   "title": "Commissioning Homes for Children Looked After & Care Leavers PDPS - Lot 2 Rd 10",
+   "buyer": "London Borough of Newham",
+   "region": "London",
+   "category": "community",
+   "value": null,
+   "currency": "GBP",
+   "deadline": "2027-03-29T12:00:00+01:00",
+   "published": "2026-10-28T11:29:10Z",
+   "summary": "The London Borough of Newham has established a Pseudo-Dynamic Purchasing System (PDPS) for the supply of services in respect of children's externally commissioned care, accommodation and support services. This notice…",
+   "url": "https://www.find-tender.service.gov.uk/Notice/101977-2026"
   },
   {
    "id": "096433-2026",
