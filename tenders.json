@@ -1,22 +1,9 @@
 {
- "updated": "2026-10-28T21:39:14.212Z",
+ "updated": "2026-10-29T11:32:51.161Z",
  "source": "Find a Tender (UK Government)",
  "licence": "Open Government Licence v3.0",
- "count": 35,
+ "count": 34,
  "tenders": [
-  {
-   "id": "091811-2026",
-   "title": "Framework Agreement for Provision of Cleaning Services for Properties, Communal Areas and Kitchens",
-   "buyer": "Falkirk Council",
-   "region": "Scotland",
-   "category": "cleaning",
-   "value": 3840000,
-   "currency": "GBP",
-   "deadline": "2026-10-29T11:00:00Z",
-   "published": "2026-09-29T12:11:53+01:00",
-   "summary": "Falkirk Council intends to appoint suitably experienced cleaning providers for the provision of cleaning services for properties, communal areas, and kitchens at various sites within the local authority area.",
-   "url": "https://www.find-tender.service.gov.uk/Notice/091811-2026"
-  },
   {
    "id": "091005-2026",
    "title": "Provision of Cleaning and Associated Services",
