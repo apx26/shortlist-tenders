@@ -1,22 +1,9 @@
 {
- "updated": "2026-10-29T21:49:03.370Z",
+ "updated": "2026-10-30T11:25:41.752Z",
  "source": "Find a Tender (UK Government)",
  "licence": "Open Government Licence v3.0",
  "count": 34,
  "tenders": [
-  {
-   "id": "091005-2026",
-   "title": "Provision of Cleaning and Associated Services",
-   "buyer": "Registers of Scotland",
-   "region": "Scotland",
-   "category": "cleaning",
-   "value": 2850000,
-   "currency": "GBP",
-   "deadline": "2026-10-30T11:00:00Z",
-   "published": "2026-09-25T13:30:25+01:00",
-   "summary": "The Supplier shall provide a comprehensive cleaning service throughout the premises delivered in a safe and efficient manner. The Supplier shall take responsibility for maintaining all identified internal cleanable…",
-   "url": "https://www.find-tender.service.gov.uk/Notice/091005-2026"
-  },
   {
    "id": "088866-2026",
    "title": "Reopening (1) of the Flexible Framework for Care at Home and Housing Support Services",
@@ -146,6 +133,19 @@
    "published": "2026-10-09T10:22:58+01:00",
    "summary": "South Lanarkshire Council's Housing and Technical Resources, Building Services require to appoint a suitably qualified contractor to provide specialist house cleaning, clearance and disposal services within…",
    "url": "https://www.find-tender.service.gov.uk/Notice/095513-2026"
+  },
+  {
+   "id": "102981-2026",
+   "title": "HtH - Semi Independent Living - Lot 4",
+   "buyer": "London Borough of Haringey",
+   "region": "London",
+   "category": "care",
+   "value": 292500,
+   "currency": "GBP",
+   "deadline": "2026-11-11",
+   "published": "2026-10-30T09:40:19Z",
+   "summary": "PROVISION OF THE SUPPORT AND LIFE SKILL COACHING FOR CARE LEAVERS",
+   "url": "https://www.find-tender.service.gov.uk/Notice/102981-2026"
   },
   {
    "id": "095692-2026",
