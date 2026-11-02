@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-02T13:32:24.858Z",
+ "updated": "2026-11-02T20:46:01.641Z",
  "source": "Find a Tender (UK Government)",
  "licence": "Open Government Licence v3.0",
- "count": 32,
+ "count": 35,
  "tenders": [
   {
    "id": "090818-2026",
@@ -328,6 +328,45 @@
    "published": "2026-10-30T13:19:09Z",
    "summary": "This tender is being run as a Competitive Process under the Health Care Services (Provider Selection Regime) Regulations 2023. The community smoking cessation service will deliver evidence-based services for adult…",
    "url": "https://www.find-tender.service.gov.uk/Notice/103212-2026"
+  },
+  {
+   "id": "103830-2026",
+   "title": "Provision of Window Cleaning Services",
+   "buyer": "Fife Council",
+   "region": "Scotland",
+   "category": "cleaning",
+   "value": 280000,
+   "currency": "GBP",
+   "deadline": "2026-12-02T12:00:00Z",
+   "published": "2026-11-02T15:11:00Z",
+   "summary": "Fife Council is seeking to establish a contract for the provision of the required goods and associated services, ensuring a reliable, cost-effective and high-quality solution that meets the Council’s operational…",
+   "url": "https://www.find-tender.service.gov.uk/Notice/103830-2026"
+  },
+  {
+   "id": "103904-2026",
+   "title": "Local Employability Flexible Framework",
+   "buyer": "East Renfrewshire Council",
+   "region": "Scotland",
+   "category": "community",
+   "value": 3675000,
+   "currency": "GBP",
+   "deadline": "2026-12-02T12:00:00Z",
+   "published": "2026-11-02T16:36:10Z",
+   "summary": "East Renfrewshire Council is inviting tenders, from suitably qualified companies to support a wide range of employability programmes. This is a flexible framework that will be re-opened at least annually. The MASTER…",
+   "url": "https://www.find-tender.service.gov.uk/Notice/103904-2026"
+  },
+  {
+   "id": "103849-2026",
+   "title": "Flexible Framework Agreement for the Provision of Alcohol and Drug Recovery Services and Supports in South and East Ayrshire",
+   "buyer": "South Ayrshire Council",
+   "region": "Scotland",
+   "category": "care",
+   "value": 11825000,
+   "currency": "GBP",
+   "deadline": "2026-12-04T12:00:00Z",
+   "published": "2026-11-02T15:29:06Z",
+   "summary": "This procurement exercise is a collaboration between South Ayrshire Council and East Ayrshire Council on behalf of the South Ayrshire Alcohol and Drug Partnership (SAADP) and the East Ayrshire Alcohol and Drug…",
+   "url": "https://www.find-tender.service.gov.uk/Notice/103849-2026"
   },
   {
    "id": "101028-2026",
