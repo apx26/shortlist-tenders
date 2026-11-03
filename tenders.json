@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-02T23:53:00.082Z",
+ "updated": "2026-11-03T12:49:50.273Z",
  "source": "Find a Tender (UK Government)",
  "licence": "Open Government Licence v3.0",
- "count": 35,
+ "count": 36,
  "tenders": [
   {
    "id": "090818-2026",
@@ -393,6 +393,19 @@
    "published": "2026-10-26T14:17:43Z",
    "summary": "Framework Agreement for Early Learning and Childcare Provision - New Applicants October 2026 OCTOBER 2026 REOPENING OF FLEXIBLE FRAMEWORK - NOTE THAT FUNDED PROVIDERS ALREADY INCLUDED IN THE FRAMEWORK DO NOT REQUIRE…",
    "url": "https://www.find-tender.service.gov.uk/Notice/101073-2026"
+  },
+  {
+   "id": "104096-2026",
+   "title": "Treatment & Disposal of Residual Waste, Bulky Waste, Commercial & Demolition Waste & Street Cleansing Waste​",
+   "buyer": "Scottish Borders Council",
+   "region": "Scotland",
+   "category": "cleaning",
+   "value": 25000000,
+   "currency": "GBP",
+   "deadline": "2026-12-21T12:00:00Z",
+   "published": "2026-11-03T11:01:10Z",
+   "summary": "Scottish Borders Council (the Council) is seeking Bidder responses to this Invitation to Tender (ITT) for the treatment of its Residual Waste The treatment of Contract Waste, split into the following waste streams:…",
+   "url": "https://www.find-tender.service.gov.uk/Notice/104096-2026"
   },
   {
    "id": "101395-2026",
