@@ -1,35 +1,9 @@
 {
- "updated": "2026-11-03T22:18:26.209Z",
+ "updated": "2026-11-04T13:00:19.541Z",
  "source": "Find a Tender (UK Government)",
  "licence": "Open Government Licence v3.0",
- "count": 37,
+ "count": 35,
  "tenders": [
-  {
-   "id": "090818-2026",
-   "title": "Abertay Housing Association - Landscape Maintenance 2027 - 2030",
-   "buyer": "Abertay Housing Association",
-   "region": "Scotland",
-   "category": "cleaning",
-   "value": null,
-   "currency": "GBP",
-   "deadline": "2026-11-04T12:00:00Z",
-   "published": "2026-09-25T09:39:10+01:00",
-   "summary": "36 month Landscape Maintenance Services for areas owned by Abertay Housing Association located in Dundee and surrounding areas.",
-   "url": "https://www.find-tender.service.gov.uk/Notice/090818-2026"
-  },
-  {
-   "id": "092247-2026",
-   "title": "Community Specialist Stop Smoking Service",
-   "buyer": "Newcastle City Council",
-   "region": "North East",
-   "category": "care",
-   "value": 1659000,
-   "currency": "GBP",
-   "deadline": "2026-11-04T12:00:00Z",
-   "published": "2026-09-30T11:04:08+01:00",
-   "summary": "NCC will be recommissioning the Stop Smoking Service.",
-   "url": "https://www.find-tender.service.gov.uk/Notice/092247-2026"
-  },
   {
    "id": "101778-2026",
    "title": "HtH-DPS-Semi-Independent Living",
