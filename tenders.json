@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-04T22:38:18.391Z",
+ "updated": "2026-11-05T13:14:14.870Z",
  "source": "Find a Tender (UK Government)",
  "licence": "Open Government Licence v3.0",
- "count": 35,
+ "count": 36,
  "tenders": [
   {
    "id": "101778-2026",
@@ -393,6 +393,19 @@
    "published": "2026-11-03T11:01:10Z",
    "summary": "Scottish Borders Council (the Council) is seeking Bidder responses to this Invitation to Tender (ITT) for the treatment of its Residual Waste The treatment of Contract Waste, split into the following waste streams:…",
    "url": "https://www.find-tender.service.gov.uk/Notice/104096-2026"
+  },
+  {
+   "id": "105109-2026",
+   "title": "Shropshire 0-25 Public Health Nursing Service (PHNS)",
+   "buyer": "Shropshire Council",
+   "region": "West Midlands",
+   "category": "care",
+   "value": 25296852,
+   "currency": "GBP",
+   "deadline": "2026-12-21T12:00:00Z",
+   "published": "2026-11-05T11:49:25Z",
+   "summary": "The Authority is seeking a provider to deliver an integrated 0-19 (up to 25 where appropriate) Healthy Child Programme, encompassing Health Visiting, School Nursing and Family Nurse Partnership services across…",
+   "url": "https://www.find-tender.service.gov.uk/Notice/105109-2026"
   },
   {
    "id": "101395-2026",
