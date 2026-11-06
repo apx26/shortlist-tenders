@@ -1,22 +1,9 @@
 {
- "updated": "2026-11-05T22:40:19.168Z",
+ "updated": "2026-11-06T12:58:13.391Z",
  "source": "Find a Tender (UK Government)",
  "licence": "Open Government Licence v3.0",
- "count": 36,
+ "count": 35,
  "tenders": [
-  {
-   "id": "101778-2026",
-   "title": "HtH-DPS-Semi-Independent Living",
-   "buyer": "London Borough of Haringey",
-   "region": "London",
-   "category": "care",
-   "value": 292501,
-   "currency": "GBP",
-   "deadline": "2026-11-06",
-   "published": "2026-10-27T17:11:14Z",
-   "summary": "Support and life-skills coaching for care leavers living at Hornsey Town Hall (HtH) training flats",
-   "url": "https://www.find-tender.service.gov.uk/Notice/101778-2026"
-  },
   {
    "id": "096422-2026",
    "title": "Provision of Homeless Supported Accommodation, Outreach Tenancy Support and Housing First Services",
