@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-06T17:57:06.045Z",
+ "updated": "2026-11-06T22:07:10.748Z",
  "source": "Find a Tender (UK Government)",
  "licence": "Open Government Licence v3.0",
- "count": 35,
+ "count": 36,
  "tenders": [
   {
    "id": "096422-2026",
@@ -341,6 +341,19 @@
    "published": "2026-11-02T15:29:06Z",
    "summary": "This procurement exercise is a collaboration between South Ayrshire Council and East Ayrshire Council on behalf of the South Ayrshire Alcohol and Drug Partnership (SAADP) and the East Ayrshire Alcohol and Drug…",
    "url": "https://www.find-tender.service.gov.uk/Notice/103849-2026"
+  },
+  {
+   "id": "105826-2026",
+   "title": "26055 Child Weight Management",
+   "buyer": "Cambridgeshire County Council",
+   "region": "East of England",
+   "category": "care",
+   "value": 1640000,
+   "currency": "GBP",
+   "deadline": "2026-12-07T12:00:00Z",
+   "published": "2026-11-06T15:08:05Z",
+   "summary": "Since 2023, there has been a standalone, integrated Child Weight Management Service in Cambridgeshire, commissioned by Public Health. As the service is soon coming to an end, we intend to go out to procurement for a…",
+   "url": "https://www.find-tender.service.gov.uk/Notice/105826-2026"
   },
   {
    "id": "101028-2026",
