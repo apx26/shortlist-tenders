@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-09T13:56:01.227Z",
+ "updated": "2026-11-09T21:26:06.396Z",
  "source": "Find a Tender (UK Government)",
  "licence": "Open Government Licence v3.0",
- "count": 35,
+ "count": 36,
  "tenders": [
   {
    "id": "102981-2026",
@@ -419,6 +419,19 @@
    "published": "2026-10-02T09:59:39+01:00",
    "summary": "NHS Highland, acting as the Lead Agency for Integrated Health and Social Care for Adults on behalf of the Highland Health and Social Care Partnership (HHSCP), is reopening its established Flexible Framework Agreement…",
    "url": "https://www.find-tender.service.gov.uk/Notice/093151-2026"
+  },
+  {
+   "id": "106256-2026",
+   "title": "Waste Management Broker Services",
+   "buyer": "Historic Environment Scotland",
+   "region": "Scotland",
+   "category": "cleaning",
+   "value": null,
+   "currency": "GBP",
+   "deadline": "2027-01-08T12:00:00Z",
+   "published": "2026-11-09T13:57:34Z",
+   "summary": "HES is looking for a Waste Broker to deliver a centralised, efficient, cost-effective and environmentally responsible waste management service.",
+   "url": "https://www.find-tender.service.gov.uk/Notice/106256-2026"
   },
   {
    "id": "099557-2026",
