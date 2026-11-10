@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-10T00:41:21.932Z",
+ "updated": "2026-11-10T13:29:21.295Z",
  "source": "Find a Tender (UK Government)",
  "licence": "Open Government Licence v3.0",
- "count": 36,
+ "count": 37,
  "tenders": [
   {
    "id": "102981-2026",
@@ -367,6 +367,19 @@
    "published": "2026-10-26T14:17:43Z",
    "summary": "Framework Agreement for Early Learning and Childcare Provision - New Applicants October 2026 OCTOBER 2026 REOPENING OF FLEXIBLE FRAMEWORK - NOTE THAT FUNDED PROVIDERS ALREADY INCLUDED IN THE FRAMEWORK DO NOT REQUIRE…",
    "url": "https://www.find-tender.service.gov.uk/Notice/101073-2026"
+  },
+  {
+   "id": "106517-2026",
+   "title": "Grounds Maintenance Services: 2027-2031",
+   "buyer": "Orkney Islands Council",
+   "region": "Scotland",
+   "category": "cleaning",
+   "value": 2500000,
+   "currency": "GBP",
+   "deadline": "2026-12-11T12:00:00Z",
+   "published": "2026-11-10T10:04:01Z",
+   "summary": "To provide grounds maintenance services across the Orkney mainland, linked south isles and Hoy. This will include grass cutting, strimming, weed control, maintenance of planting including shrubs and small trees. Note…",
+   "url": "https://www.find-tender.service.gov.uk/Notice/106517-2026"
   },
   {
    "id": "104096-2026",
