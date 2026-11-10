@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-10T13:29:21.295Z",
+ "updated": "2026-11-10T18:39:57.551Z",
  "source": "Find a Tender (UK Government)",
  "licence": "Open Government Licence v3.0",
- "count": 37,
+ "count": 38,
  "tenders": [
   {
    "id": "102981-2026",
@@ -367,6 +367,19 @@
    "published": "2026-10-26T14:17:43Z",
    "summary": "Framework Agreement for Early Learning and Childcare Provision - New Applicants October 2026 OCTOBER 2026 REOPENING OF FLEXIBLE FRAMEWORK - NOTE THAT FUNDED PROVIDERS ALREADY INCLUDED IN THE FRAMEWORK DO NOT REQUIRE…",
    "url": "https://www.find-tender.service.gov.uk/Notice/101073-2026"
+  },
+  {
+   "id": "106805-2026",
+   "title": "CWC26055 - Severe Mental Illness (SMI) Healthy Lifestyle Service",
+   "buyer": "Wolverhampton City Council",
+   "region": "West Midlands",
+   "category": "care",
+   "value": 600000,
+   "currency": "GBP",
+   "deadline": "2026-12-10T12:00:00Z",
+   "published": "2026-11-10T15:46:51Z",
+   "summary": "This tender is being run as a Competitive Process under the Health Care Services (Provider Selection Regime) Regulations 2023. The aim is to provide a Healthy Lifestyle Service to adults (18+) with a SMI in…",
+   "url": "https://www.find-tender.service.gov.uk/Notice/106805-2026"
   },
   {
    "id": "106517-2026",
