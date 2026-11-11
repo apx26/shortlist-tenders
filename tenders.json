@@ -1,48 +1,9 @@
 {
- "updated": "2026-11-10T22:22:15.785Z",
+ "updated": "2026-11-11T12:44:55.199Z",
  "source": "Find a Tender (UK Government)",
  "licence": "Open Government Licence v3.0",
- "count": 38,
+ "count": 35,
  "tenders": [
-  {
-   "id": "102981-2026",
-   "title": "HtH - Semi Independent Living - Lot 4",
-   "buyer": "London Borough of Haringey",
-   "region": "London",
-   "category": "care",
-   "value": 292500,
-   "currency": "GBP",
-   "deadline": "2026-11-11",
-   "published": "2026-10-30T09:40:19Z",
-   "summary": "PROVISION OF THE SUPPORT AND LIFE SKILL COACHING FOR CARE LEAVERS",
-   "url": "https://www.find-tender.service.gov.uk/Notice/102981-2026"
-  },
-  {
-   "id": "095692-2026",
-   "title": "Distress Brief Intervention",
-   "buyer": "North Lanarkshire Council",
-   "region": "Scotland",
-   "category": "community",
-   "value": null,
-   "currency": "GBP",
-   "deadline": "2026-11-11T12:00:00Z",
-   "published": "2026-10-09T14:03:46+01:00",
-   "summary": "North Lanarkshire Council (the \"Council\") propose to establish a contract with a sole contractor for Distress Brief Intervention. . There is a longstanding culture of joint integration and partnership working across…",
-   "url": "https://www.find-tender.service.gov.uk/Notice/095692-2026"
-  },
-  {
-   "id": "096179-2026",
-   "title": "Reopening of Framework Agreement for Live-in Care (All-Ages), Complex Care (All-Ages) and Trusted Assessors for Spot Therapy and Clinical Psychology Provision for NHS Devon Integrated Care Board",
-   "buyer": "NHS DEVON INTEGRATED CARE BOARD",
-   "region": "South West",
-   "category": "care",
-   "value": 61297064,
-   "currency": "GBP",
-   "deadline": "2026-11-11T12:00:00Z",
-   "published": "2026-10-12T15:27:07+01:00",
-   "summary": "NHS Devon Integrated Care Board (the Commissioner) is seeking to reopen the Framework Agreement and appoint suitable providers who have the capability and capacity to deliver the following services: LOT 1 - Live-in…",
-   "url": "https://www.find-tender.service.gov.uk/Notice/096179-2026"
-  },
   {
    "id": "095752-2026",
    "title": "Experts at Hand: Occupational Therapy, Inclusion and Participation Service",
