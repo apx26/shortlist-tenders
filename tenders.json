@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-11T12:44:55.199Z",
+ "updated": "2026-11-11T18:41:26.487Z",
  "source": "Find a Tender (UK Government)",
  "licence": "Open Government Licence v3.0",
- "count": 35,
+ "count": 37,
  "tenders": [
   {
    "id": "095752-2026",
@@ -278,6 +278,19 @@
    "url": "https://www.find-tender.service.gov.uk/Notice/106021-2026"
   },
   {
+   "id": "107223-2026",
+   "title": "BHCC Adults Community Support and Supported Living Light Touch Dynamic Purchasing System (DPS) Admission Round 4",
+   "buyer": "Brighton and Hove City Council",
+   "region": "South East",
+   "category": "community",
+   "value": 240000000,
+   "currency": "GBP",
+   "deadline": "2026-12-04T12:00:00Z",
+   "published": "2026-11-11T15:17:56Z",
+   "summary": "Brighton and Hove City Council (BHCC) established a Light Touch Dynamic Purchasing System (DPS) for the supply of services in respect of Community Support and Supported Living for adults on 4th March 2024 for an…",
+   "url": "https://www.find-tender.service.gov.uk/Notice/107223-2026"
+  },
+  {
    "id": "105826-2026",
    "title": "26055 Child Weight Management",
    "buyer": "Cambridgeshire County Council",
@@ -354,6 +367,19 @@
    "published": "2026-11-10T10:04:01Z",
    "summary": "To provide grounds maintenance services across the Orkney mainland, linked south isles and Hoy. This will include grass cutting, strimming, weed control, maintenance of planting including shrubs and small trees. Note…",
    "url": "https://www.find-tender.service.gov.uk/Notice/106517-2026"
+  },
+  {
+   "id": "107250-2026",
+   "title": "Children’s Service - Seeking Children’s Views",
+   "buyer": "Scottish Government",
+   "region": "Scotland",
+   "category": "care",
+   "value": 520876,
+   "currency": "GBP",
+   "deadline": "2026-12-16T10:00:00Z",
+   "published": "2026-11-11T16:01:46Z",
+   "summary": "The Scottish Government is seeking a Service Provider to provide a demand led service to engage with children (aged 12-15) to seek their views to support them to exercise their rights under the Education (Additional…",
+   "url": "https://www.find-tender.service.gov.uk/Notice/107250-2026"
   },
   {
    "id": "104096-2026",
