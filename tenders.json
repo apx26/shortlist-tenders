@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-11T23:27:43.943Z",
+ "updated": "2026-11-12T13:47:07.247Z",
  "source": "Find a Tender (UK Government)",
  "licence": "Open Government Licence v3.0",
- "count": 37,
+ "count": 39,
  "tenders": [
   {
    "id": "095752-2026",
@@ -380,6 +380,32 @@
    "published": "2026-11-11T16:01:46Z",
    "summary": "The Scottish Government is seeking a Service Provider to provide a demand led service to engage with children (aged 12-15) to seek their views to support them to exercise their rights under the Education (Additional…",
    "url": "https://www.find-tender.service.gov.uk/Notice/107250-2026"
+  },
+  {
+   "id": "107400-2026",
+   "title": "NHSDG Estates & Property Grounds Maintenance",
+   "buyer": "Dumfries and Galloway Health Board",
+   "region": "Scotland",
+   "category": "cleaning",
+   "value": 300000,
+   "currency": "GBP",
+   "deadline": "2026-12-17T12:00:00Z",
+   "published": "2026-11-12T09:45:17Z",
+   "summary": "The contract to be tendered by NHS Dumfries & Galloway (the “Authority) is for the direct provision of the estate wide grounds maintenance services. The works will be to the Estates open spaces, pathways, common…",
+   "url": "https://www.find-tender.service.gov.uk/Notice/107400-2026"
+  },
+  {
+   "id": "107409-2026",
+   "title": "NHSDG Estates & Property Grounds Maintenance",
+   "buyer": "Dumfries and Galloway Health Board",
+   "region": "Scotland",
+   "category": "cleaning",
+   "value": 300000,
+   "currency": "GBP",
+   "deadline": "2026-12-17T12:00:00Z",
+   "published": "2026-11-12T09:53:51Z",
+   "summary": "The contract to be tendered by NHS Dumfries & Galloway (the “Authority) is for the direct provision of the estate wide grounds maintenance services. The works will be to the Estates open spaces, pathways, common…",
+   "url": "https://www.find-tender.service.gov.uk/Notice/107409-2026"
   },
   {
    "id": "104096-2026",
