@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-12T13:47:07.247Z",
+ "updated": "2026-11-12T18:54:29.741Z",
  "source": "Find a Tender (UK Government)",
  "licence": "Open Government Licence v3.0",
- "count": 39,
+ "count": 41,
  "tenders": [
   {
    "id": "095752-2026",
@@ -330,6 +330,19 @@
    "url": "https://www.find-tender.service.gov.uk/Notice/106031-2026"
   },
   {
+   "id": "107744-2026",
+   "title": "Provision - Senior GP Clinical Leadership to support delivery - East Kent Virtual Wards",
+   "buyer": "KENT COMMUNITY HEALTH NHS FOUNDATION TRUST",
+   "region": "South East",
+   "category": "care",
+   "value": 2100000,
+   "currency": "GBP",
+   "deadline": "2026-12-09T17:00:00Z",
+   "published": "2026-11-12T16:40:12Z",
+   "summary": "Kent Community Health NHS Foundation Trust (KCHFT) seeks to commission the provision of Senior GP Clinical Leadership to support the delivery of the East Kent Urgent Care services, including Urgent Community Response…",
+   "url": "https://www.find-tender.service.gov.uk/Notice/107744-2026"
+  },
+  {
    "id": "101073-2026",
    "title": "Early Learning & Childcare Provision Framework (New Applicants October 2026)",
    "buyer": "East Ayrshire Council",
@@ -367,6 +380,19 @@
    "published": "2026-11-10T10:04:01Z",
    "summary": "To provide grounds maintenance services across the Orkney mainland, linked south isles and Hoy. This will include grass cutting, strimming, weed control, maintenance of planting including shrubs and small trees. Note…",
    "url": "https://www.find-tender.service.gov.uk/Notice/106517-2026"
+  },
+  {
+   "id": "107683-2026",
+   "title": "Year-round Welcome Centre",
+   "buyer": "The City of Edinburgh Council",
+   "region": "Scotland",
+   "category": "care",
+   "value": null,
+   "currency": "GBP",
+   "deadline": "2026-12-14T12:00:00Z",
+   "published": "2026-11-12T15:42:45Z",
+   "summary": "The City of Edinburgh Council (the Council) require to be put a contract in place for the provision of a year-round welcome centre to support people who are rough sleeping in Edinburgh as the current contract is…",
+   "url": "https://www.find-tender.service.gov.uk/Notice/107683-2026"
   },
   {
    "id": "107250-2026",
