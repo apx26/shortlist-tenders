@@ -1,22 +1,9 @@
 {
- "updated": "2026-11-12T22:43:31.640Z",
+ "updated": "2026-11-13T13:08:39.784Z",
  "source": "Find a Tender (UK Government)",
  "licence": "Open Government Licence v3.0",
- "count": 41,
+ "count": 40,
  "tenders": [
-  {
-   "id": "095752-2026",
-   "title": "Experts at Hand: Occupational Therapy, Inclusion and Participation Service",
-   "buyer": "Norfolk County Council",
-   "region": "East of England",
-   "category": "care",
-   "value": null,
-   "currency": "GBP",
-   "deadline": "2026-11-13T10:00:00Z",
-   "published": "2026-10-09T15:04:50+01:00",
-   "summary": "'Experts at Hand' is designed to transform how support for children and young people with SEND is delivered, by bringing specialist expertise directly into mainstream early years, primary, secondary and post-16…",
-   "url": "https://www.find-tender.service.gov.uk/Notice/095752-2026"
-  },
   {
    "id": "097721-2026",
    "title": "Molendinar+Reidvale HAs Landscape Maintenance Framework 2027",
