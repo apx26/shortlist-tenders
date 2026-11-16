@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-16T13:41:09.372Z",
+ "updated": "2026-11-16T21:01:24.346Z",
  "source": "Find a Tender (UK Government)",
  "licence": "Open Government Licence v3.0",
- "count": 36,
+ "count": 37,
  "tenders": [
   {
    "id": "100646-2026",
@@ -341,6 +341,19 @@
    "published": "2026-11-11T16:01:46Z",
    "summary": "The Scottish Government is seeking a Service Provider to provide a demand led service to engage with children (aged 12-15) to seek their views to support them to exercise their rights under the Education (Additional…",
    "url": "https://www.find-tender.service.gov.uk/Notice/107250-2026"
+  },
+  {
+   "id": "108677-2026",
+   "title": "Landscape Maintenance and Common Close Cleaning Services Contract 2027-2029",
+   "buyer": "Southside Housing Association Ltd",
+   "region": "Scotland",
+   "category": "cleaning",
+   "value": 1165000,
+   "currency": "GBP",
+   "deadline": "2026-12-16T12:00:00Z",
+   "published": "2026-11-16T17:11:56Z",
+   "summary": "The Contract will principally comprise landscape maintenance and common close cleaning services. The landscape maintenance services will mainly include litter picking, grass cutting, shrub bed, hedging and leaf…",
+   "url": "https://www.find-tender.service.gov.uk/Notice/108677-2026"
   },
   {
    "id": "107400-2026",
