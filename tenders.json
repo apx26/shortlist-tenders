@@ -1,22 +1,9 @@
 {
- "updated": "2026-11-17T00:47:57.066Z",
+ "updated": "2026-11-17T14:27:41.471Z",
  "source": "Find a Tender (UK Government)",
  "licence": "Open Government Licence v3.0",
- "count": 37,
+ "count": 36,
  "tenders": [
-  {
-   "id": "100646-2026",
-   "title": "Social Housing Emerging Disrupters 6 (SHED 6)",
-   "buyer": "Procurement for Housing Ltd (t/a PfH Scotland)",
-   "region": "Scotland",
-   "category": "cleaning",
-   "value": 250000000,
-   "currency": "GBP",
-   "deadline": "2026-11-17T12:00:00Z",
-   "published": "2026-10-23T15:25:57+01:00",
-   "summary": "Established in 2004, Procurement for Housing (PfH) is a national procurement consortium dedicated to the social housing sector and supported by the National Housing Federation (NHF), Chartered Institute of Housing…",
-   "url": "https://www.find-tender.service.gov.uk/Notice/100646-2026"
-  },
   {
    "id": "099867-2026",
    "title": "Fostering and Continuing Care Services 0924",
