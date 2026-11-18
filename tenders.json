@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-18T14:01:41.221Z",
+ "updated": "2026-11-18T19:24:19.355Z",
  "source": "Find a Tender (UK Government)",
  "licence": "Open Government Licence v3.0",
- "count": 36,
+ "count": 38,
  "tenders": [
   {
    "id": "099461-2026",
@@ -341,6 +341,32 @@
    "published": "2026-11-16T17:11:56Z",
    "summary": "The Contract will principally comprise landscape maintenance and common close cleaning services. The landscape maintenance services will mainly include litter picking, grass cutting, shrub bed, hedging and leaf…",
    "url": "https://www.find-tender.service.gov.uk/Notice/108677-2026"
+  },
+  {
+   "id": "109366-2026",
+   "title": "Provision of Security and physical guarding services",
+   "buyer": "The Common Services Agency (more commonly known as Public Services Delivery Scotland) (PSD Scotland)",
+   "region": "Scotland",
+   "category": "security",
+   "value": 765000,
+   "currency": "GBP",
+   "deadline": "2026-12-16T12:00:00Z",
+   "published": "2026-11-18T15:06:49Z",
+   "summary": "PSD Scotland are seeking to put in place a contract for the provision of security and physical guarding services.",
+   "url": "https://www.find-tender.service.gov.uk/Notice/109366-2026"
+  },
+  {
+   "id": "109367-2026",
+   "title": "Provision of Security and physical guarding services",
+   "buyer": "The Common Services Agency (more commonly known as Public Services Delivery Scotland) (PSD Scotland)",
+   "region": "Scotland",
+   "category": "security",
+   "value": 765000,
+   "currency": "GBP",
+   "deadline": "2026-12-16T12:00:00Z",
+   "published": "2026-11-18T15:07:35Z",
+   "summary": "PSD Scotland are seeking to put in place a contract for the provision of security and physical guarding services.",
+   "url": "https://www.find-tender.service.gov.uk/Notice/109367-2026"
   },
   {
    "id": "107400-2026",
