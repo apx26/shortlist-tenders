@@ -1,22 +1,9 @@
 {
- "updated": "2026-11-17T23:50:37.141Z",
+ "updated": "2026-11-18T14:01:41.221Z",
  "source": "Find a Tender (UK Government)",
  "licence": "Open Government Licence v3.0",
  "count": 36,
  "tenders": [
-  {
-   "id": "099867-2026",
-   "title": "Fostering and Continuing Care Services 0924",
-   "buyer": "Scotland Excel",
-   "region": "Scotland",
-   "category": "community",
-   "value": 345000000,
-   "currency": "GBP",
-   "deadline": "2026-11-18T12:00:00Z",
-   "published": "2026-10-22T11:07:51+01:00",
-   "summary": "This Contract Notice pertains to a Flexible Framework for Fostering and Continuing Care Services 0924. The Flexible Framework will support local authorities to access nurturing family homes for children and young…",
-   "url": "https://www.find-tender.service.gov.uk/Notice/099867-2026"
-  },
   {
    "id": "099461-2026",
    "title": "Walton Community Council Community Asset Security",
@@ -250,6 +237,19 @@
    "published": "2026-11-09T09:59:28Z",
    "summary": "Provision of Grounds Maintenance and Winter Gritting Services to New College Lanarkshire. This agreement is split into two lots: Lot 1 - Winter Gritting Services Lot 2 - Grounds Maintenance Services",
    "url": "https://www.find-tender.service.gov.uk/Notice/106031-2026"
+  },
+  {
+   "id": "109313-2026",
+   "title": "Hanging Basket Watering Services",
+   "buyer": "Barnsley Metropolitan Borough Council",
+   "region": "Yorkshire and the Humber",
+   "category": "cleaning",
+   "value": 1,
+   "currency": "GBP",
+   "deadline": "2026-12-09T12:00:00Z",
+   "published": "2026-11-18T13:38:51Z",
+   "summary": "The Council & We Flourish is undertaking market engagement exercise to establish market interest and capacity for the provision of subcontracted hanging basket watering services. We Flourish is seeking potential…",
+   "url": "https://www.find-tender.service.gov.uk/Notice/109313-2026"
   },
   {
    "id": "107744-2026",
