@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-18T23:22:34.665Z",
+ "updated": "2026-11-19T14:27:34.580Z",
  "source": "Find a Tender (UK Government)",
  "licence": "Open Government Licence v3.0",
- "count": 38,
+ "count": 39,
  "tenders": [
   {
    "id": "099461-2026",
@@ -484,6 +484,19 @@
    "published": "2026-10-28T11:29:10Z",
    "summary": "The London Borough of Newham has established a Pseudo-Dynamic Purchasing System (PDPS) for the supply of services in respect of children's externally commissioned care, accommodation and support services. This notice…",
    "url": "https://www.find-tender.service.gov.uk/Notice/101977-2026"
+  },
+  {
+   "id": "109711-2026",
+   "title": "Short Breaks for Children and Young People with Disabilities aged 5 to 17 years old in Norfolk Framework Agreement",
+   "buyer": "Norfolk County Council",
+   "region": "East of England",
+   "category": "care",
+   "value": 5000000,
+   "currency": "GBP",
+   "deadline": "2027-06-01T10:00:00+01:00",
+   "published": "2026-11-19T12:39:19Z",
+   "summary": "The Council wishes to commission a range of high quality, outcome-focused, inclusive Short Breaks for children and young people with disabilities (CWD) aged 5 to 17 years who live in Norfolk, to support its vision to…",
+   "url": "https://www.find-tender.service.gov.uk/Notice/109711-2026"
   },
   {
    "id": "096433-2026",
