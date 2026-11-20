@@ -1,22 +1,9 @@
 {
- "updated": "2026-11-20T14:02:22.588Z",
+ "updated": "2026-11-20T19:05:49.566Z",
  "source": "Find a Tender (UK Government)",
  "licence": "Open Government Licence v3.0",
  "count": 42,
  "tenders": [
-  {
-   "id": "099461-2026",
-   "title": "Walton Community Council Community Asset Security",
-   "buyer": "Walton Community Council",
-   "region": "North East",
-   "category": "security",
-   "value": null,
-   "currency": "GBP",
-   "deadline": "2026-11-20T17:00:00Z",
-   "published": "2026-10-21T12:58:08+01:00",
-   "summary": "The security, opening and closing of a Multi-Use Games Area (MUGA) and the security, opening and closing of three car parks at Browns Wood Sports Ground, Walnut Tree Sports Ground and Wavendon Gate Sports Ground.",
-   "url": "https://www.find-tender.service.gov.uk/Notice/099461-2026"
-  },
   {
    "id": "100624-2026",
    "title": "TD2311 - Life Skills Transitions and Development Supported Living Scheme",
@@ -445,6 +432,19 @@
    "published": "2026-11-05T11:49:25Z",
    "summary": "The Authority is seeking a provider to deliver an integrated 0-19 (up to 25 where appropriate) Healthy Child Programme, encompassing Health Visiting, School Nursing and Family Nurse Partnership services across…",
    "url": "https://www.find-tender.service.gov.uk/Notice/105109-2026"
+  },
+  {
+   "id": "110216-2026",
+   "title": "PS/26/172 - Kilmarnock Bus Station Cleaning",
+   "buyer": "East Ayrshire Council",
+   "region": "Scotland",
+   "category": "cleaning",
+   "value": 200000,
+   "currency": "GBP",
+   "deadline": "2026-12-21T12:00:00Z",
+   "published": "2026-11-20T14:32:02Z",
+   "summary": "General cleaning of the Kilmarnock Bus Station, KA1 1JU. The areas covered by this contract are all public areas including the passenger concourse, access routes, waiting room, disabled toilet and Shopmobility Office.",
+   "url": "https://www.find-tender.service.gov.uk/Notice/110216-2026"
   },
   {
    "id": "101395-2026",
