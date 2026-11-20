@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-19T23:35:04.342Z",
+ "updated": "2026-11-20T14:02:22.588Z",
  "source": "Find a Tender (UK Government)",
  "licence": "Open Government Licence v3.0",
- "count": 40,
+ "count": 42,
  "tenders": [
   {
    "id": "099461-2026",
@@ -330,6 +330,19 @@
    "url": "https://www.find-tender.service.gov.uk/Notice/107683-2026"
   },
   {
+   "id": "110085-2026",
+   "title": "Independent Children's Advocacy Service",
+   "buyer": "Dumfries and Galloway Council",
+   "region": "Scotland",
+   "category": "care",
+   "value": null,
+   "currency": "GBP",
+   "deadline": "2026-12-14T12:00:00Z",
+   "published": "2026-11-20T11:42:56Z",
+   "summary": "Dumfries and Galloway Council (the Purchaser) wishes to commission children's advocacy services that: - are independent and professional; - provide individual (one-to-one) advocacy that is issue focused; and - meet…",
+   "url": "https://www.find-tender.service.gov.uk/Notice/110085-2026"
+  },
+  {
    "id": "107250-2026",
    "title": "Children’s Service - Seeking Children’s Views",
    "buyer": "Scottish Government",
@@ -471,6 +484,19 @@
    "published": "2026-11-09T13:57:34Z",
    "summary": "HES is looking for a Waste Broker to deliver a centralised, efficient, cost-effective and environmentally responsible waste management service.",
    "url": "https://www.find-tender.service.gov.uk/Notice/106256-2026"
+  },
+  {
+   "id": "110122-2026",
+   "title": "SW Horizons Third Party Wastewater Transport Service",
+   "buyer": "Scottish Water",
+   "region": "Scotland",
+   "category": "cleaning",
+   "value": 2800000,
+   "currency": "GBP",
+   "deadline": "2027-01-12",
+   "published": "2026-11-20T12:18:45Z",
+   "summary": "Scottish Water Horizons is seeking to appoint contractors to provide transport of wastewater services across Scotland. The materials likely to be required for transport are non-hazardous liquid from commercial and…",
+   "url": "https://www.find-tender.service.gov.uk/Notice/110122-2026"
   },
   {
    "id": "099557-2026",
