@@ -1,22 +1,9 @@
 {
- "updated": "2026-11-27T15:07:47.768Z",
+ "updated": "2026-11-27T19:56:23.526Z",
  "source": "Find a Tender (UK Government)",
  "licence": "Open Government Licence v3.0",
- "count": 40,
+ "count": 39,
  "tenders": [
-  {
-   "id": "096987-2026",
-   "title": "Colne Town Council - Grounds Maintenance",
-   "buyer": "Colne Town Council",
-   "region": "North West",
-   "category": "cleaning",
-   "value": null,
-   "currency": "GBP",
-   "deadline": "2026-11-27T17:00:00Z",
-   "published": "2026-10-14T12:59:12+01:00",
-   "summary": "Tenders are invited in respect of one contract, with a duration of 2.25-5 years, detailed below and effective from 1st January 2027. GM5 Alkincoates Park gardening services (excluding Grass and Hedge Maintenance).",
-   "url": "https://www.find-tender.service.gov.uk/Notice/096987-2026"
-  },
   {
    "id": "103247-2026",
    "title": "Glen Oaks Housing Association - Common Close Cleaning Contract 2027-2030",
